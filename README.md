@@ -2,7 +2,7 @@
 - 👀 I’m interested in lightweight embedded systems
 - 🌱 I’m currently learning C, and Go
 - ⚡ Fun fact: I made movies for a living before this..  🎥🎬
-- Used to tell stories for a living, now I want to build tools for people to share their passion and gifts
+- Used to tell stories for an income, now I want to build tools for people to share their passion and gifts
 - Passionate about the USER interfaces, not just dev tools..
 
 <!---
